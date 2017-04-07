@@ -1,7 +1,7 @@
 # vue-ts-seed
 
 ## notice
-如果你想看实时的 cmd+shift+b 
+如果你想看ts实时编译出来的.js 文件 cmd+shift+b 
 - [ ] 去掉babel的依赖
 - [ ] 写个demo, 用一下 postcss 什么的
 - [ ] semantic 引入
