@@ -1,5 +1,11 @@
 # vue-ts-seed
 
+## notice
+如果你想看实时的 cmd+shift+b 
+- [ ] 去掉babel的依赖
+- [ ] 写个demo, 用一下 postcss 什么的
+- [ ] semantic 引入
+
 > A Vue.js project
 
 ## Build Setup
